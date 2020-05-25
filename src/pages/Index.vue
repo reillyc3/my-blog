@@ -5,7 +5,7 @@
         <!--left column -->
         <div class="flex flex-col w-full md:w-2/5 justify-center justify-between text-center md:text-left pb-10">
           <p class="uppercase tracking-loose w-full text-primary">cool. teacher. leader.</p>
-          <h1 class="py-4 text-5xl font-bold leading-tight w-full text-primary">Hi, My Name is Connor!</h1>
+          <h1 class="py-4 text-5xl font-bold leading-tight w-full text-primary">Hi, I'm Connor!</h1>
           <p class="leading-normal text-2xl pb-8 w-full text-primary">Salesforce Admin. <br> Web Developer.</p>
           <g-link class="text-2xl justify-center" to="/blog"><button class="bg-primary text-white font-bold hover:bg-darkgray rounded-full my-6 py-4 px-8 shadow-lg">Blog</button></g-link>
         </div>
